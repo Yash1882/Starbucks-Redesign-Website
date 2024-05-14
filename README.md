@@ -1,5 +1,5 @@
 # Responsive StarBucks Redesign Website
-## [See Live Preview](https://starbucks-yash.netlify.app/)
+## [See Live Preview](https://starbucks-clone-chi.vercel.app/)
 ### Responsive StarBucks Redesign Website
 
 - Starbucks Redesign built using HTML, CSS & JAVASCRIPT.
